@@ -137,7 +137,7 @@ These independent initiatives are designed to reinforce one another while mainta
 * Practitioner-focused books, courses, and executive frameworks
 * Secure automation for regulated and mission-critical environments
 * Responsible AI education for leaders, practitioners, students, and career changers
-* Scalable learning and assessment experiences through Coursekit Academy
+
 
 ## Public Portfolio and Privacy Statement
 
