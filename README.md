@@ -1,13 +1,23 @@
 # James D. McClain, MBA
 
-### Enterprise AI Program Leadership | Secure Cloud Architecture | Cybersecurity Governance | Servant Leadership | Workforce Transformation
+### Enterprise Infrastructure & Technology Operations | Cybersecurity & AI Governance | Technology Transformation | Workforce Development
 
 I develop practical frameworks that help organizations move from AI experimentation to secure, governed, and measurable implementation.
 
 My work combines enterprise technology leadership, servant leadership, practitioner-focused education, and a commitment to helping people use technology to create meaningful professional and organizational transformation.
 
 With more than 20 years of technology leadership experience, I translate complex technical challenges into executive strategy, secure reference architectures, governance controls, implementation roadmaps, books, courses, and workforce-development pathways.
+## Featured Portfolio Projects
 
+All public projects use synthetic scenarios and sanitized data. No employer, client, student, or production information is included.
+
+| Project | Business Value | Capabilities Demonstrated |
+|---|---|---|
+| [Enterprise AI Agent Readiness](https://github.com/jdmc-services/enterprise-ai-agent-readiness) | Helps organizations assess readiness for secure and governed AI-agent adoption. | AI governance, Zero Trust, risk assessment, responsible AI, and workforce readiness |
+| [AI Contact Center Hub](https://github.com/jdmc-services/ai-contact-center-hub) | Demonstrates how organizations can improve service performance using governed AI-assisted analysis. | KPI analytics, service operations, AI-assisted routing, privacy, and customer experience |
+| [AI Governance Scorecard](https://github.com/jdmc-services/ai-governance-scorecard) | Provides a structured method for evaluating organizational AI-governance readiness. | NIST AI RMF alignment, governance controls, deterministic scoring, and executive decision support |
+| [AI Incident-Response Tabletop](https://github.com/jdmc-services/ai-ir-tabletop) | Helps leaders prepare for AI-related security, privacy, and operational incidents. | Incident response, AI security, MITRE ATLAS, OWASP GenAI, and executive facilitation |
+| [BrewByte Cybersecurity Lab](https://github.com/jdmc-services/brewbyte-risk-management-lab) | Provides an interactive, synthetic learning environment for cybersecurity risk-management instruction. | Risk identification, risk analysis, treatment decisions, Nmap interpretation, and workforce education |
 ## Strategic Focus
 
 * Enterprise AI readiness and program governance
