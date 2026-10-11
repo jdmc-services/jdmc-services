@@ -7,17 +7,25 @@ I develop practical frameworks that help organizations move from AI experimentat
 My work combines enterprise technology leadership, servant leadership, practitioner-focused education, and a commitment to helping people use technology to create meaningful professional and organizational transformation.
 
 With more than 20 years of technology leadership experience, I translate complex technical challenges into executive strategy, secure reference architectures, governance controls, implementation roadmaps, books, courses, and workforce-development pathways.
+
 ## Featured Portfolio Projects
 
-All public projects use synthetic scenarios and sanitized data. No employer, client, student, or production information is included.
+Public demonstration datasets and scenarios are synthetic. Live demonstrations may process user input or provider telemetry; review each project's data-flow statement and submit only fictional, non-sensitive information. The capabilities below describe public artifacts, not independently verified client outcomes.
 
-| Project | Business Value | Capabilities Demonstrated |
-|---|---|---|
-| [Enterprise AI Agent Readiness](https://github.com/jdmc-services/enterprise-ai-agent-readiness) | Helps organizations assess readiness for secure and governed AI-agent adoption. | AI governance, Zero Trust, risk assessment, responsible AI, and workforce readiness |
-| [AI Contact Center Hub](https://github.com/jdmc-services/ai-contact-center-hub) | Demonstrates how organizations can improve service performance using governed AI-assisted analysis. | KPI analytics, service operations, AI-assisted routing, privacy, and customer experience |
-| [AI Governance Scorecard](https://github.com/jdmc-services/ai-governance-scorecard) | Provides a structured method for evaluating organizational AI-governance readiness. | NIST AI RMF alignment, governance controls, deterministic scoring, and executive decision support |
-| [AI Incident-Response Tabletop](https://github.com/jdmc-services/ai-ir-tabletop) | Helps leaders prepare for AI-related security, privacy, and operational incidents. | Incident response, AI security, MITRE ATLAS, OWASP GenAI, and executive facilitation |
-| [BrewByte Cybersecurity Lab](https://github.com/jdmc-services/brewbyte-risk-management-lab) | Provides an interactive, synthetic learning environment for cybersecurity risk-management instruction. | Risk identification, risk analysis, treatment decisions, Nmap interpretation, and workforce education |
+For a first visit, begin with [Enterprise AI Agent Readiness](https://github.com/jdmc-services/enterprise-ai-agent-readiness/blob/main/START-HERE.md) and its [Synthetic Worked Assessment](https://github.com/jdmc-services/enterprise-ai-agent-readiness/blob/main/08-validation/synthetic-validation-case.md).
+
+| Project | Artifact Type | Demonstrated Capability / Focus | Evidence Boundary |
+|---|---|---|---|
+| [Enterprise AI Agent Readiness](https://github.com/jdmc-services/enterprise-ai-agent-readiness) | Documentation framework | AI governance, Zero Trust, risk assessment, pilot measurement, workforce readiness | Synthetic worked assessment; no deployable agent or measured client outcome |
+| [AI Contact Center Hub](https://github.com/jdmc-services/ai-contact-center-hub) | Educational application | Synthetic KPI analytics and AI-assisted intent/routing concepts | No production contact-center integration; AI features use an external provider |
+| [AI Governance Scorecard](https://github.com/jdmc-services/ai-governance-scorecard) | Directional self-assessment | Deterministic scoring and AI-generated gap narrative | Self-reported inputs; no independent control verification; external AI narrative |
+| [AI Incident-Response Tabletop](https://github.com/jdmc-services/ai-ir-tabletop) | Educational exercise | AI security, privacy, governance, and executive facilitation | Exercise material; not evidence of real incident-response effectiveness |
+| [BrewByte Cybersecurity Lab](https://github.com/jdmc-services/brewbyte-risk-management-lab) | Synthetic learning lab | Risk identification, analysis, treatment, and workforce education | Fictional instructional scenario; not a real organizational assessment |
+| [Enterprise AI Infrastructure Architecture](https://github.com/jdmc-services/enterprise-ai-infrastructure-architecture) | Architecture reference | Secure RAG, identity, segmentation, and AI operations | Reference design; implementation controls require independent testing |
+| [Prompt Injection Demonstration](https://github.com/jdmc-services/prompt-injection-demo) | Security demonstration | Prompt-injection attack paths and defensive concepts | Demonstration coverage does not establish protection against all attacks |
+| [NIST 800-171 Readiness Pipeline](https://github.com/jdmc-services/nist-800-171-readiness-pipeline) | Local-inference readiness prototype | Private retrieval and locally controlled AI components | Network exposure depends on deployment mode; not an official compliance assessment |
+| [Technology Fluency: 30 Days](https://github.com/jdmc-services/technology-fluency-30-days) | Learning pathway | Technology education for students, professionals, and leaders | Educational resources; no certification or employment guarantee |
+
 ## Strategic Focus
 
 * Enterprise AI readiness and program governance
@@ -77,17 +85,6 @@ My work is guided by the following principles:
 7. **Measure value and risk.** Evaluate operational performance, adoption, security, reliability, compliance, and business impact.
 8. **Lead through service.** Technology should strengthen people, improve access to opportunity, and support the mission of the organization.
 
-## Featured Portfolio
-
-| Project                                                                                                                 | Focus                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [Enterprise AI Agent Readiness](https://github.com/jdmc-services/enterprise-ai-agent-readiness)                         | Vendor-neutral framework for AI readiness, Zero-Trust governance, use-case evaluation, adoption, and measurable value |
-| [Enterprise AI Infrastructure Architecture](https://github.com/jdmc-services/enterprise-ai-infrastructure-architecture) | Secure RAG design, identity controls, network segmentation, NIST AI RMF mapping, and AI operations                    |
-| [AI Incident Response Tabletop](https://github.com/jdmc-services/ai-ir-tabletop)                                        | Interactive AI incident-response exercise addressing security, privacy, governance, and operational resilience        |
-| [Prompt Injection Demonstration](https://github.com/jdmc-services/prompt-injection-demo)                                | Practical demonstration of prompt-injection attack paths and layered defensive controls                               |
-| [NIST 800-171 Readiness Pipeline](https://github.com/jdmc-services/nist-800-171-readiness-pipeline)                     | Zero-egress readiness workflow using private retrieval and locally controlled AI components                           |
-| [Technology Fluency: 30 Days](https://github.com/jdmc-services/technology-fluency-30-days)                              | Structured technology-learning pathway for students, professionals, leaders, and career changers                      |
-
 ## Framework Alignment
 
 Portfolio projects may incorporate concepts and controls from:
@@ -136,7 +133,7 @@ My independent work connects enterprise advisory services, nonprofit workforce d
 * [EmpowerTech Pathway Inc.](https://empowertechpathway.org) — Expanding access to AI, cloud, cybersecurity, technology fluency, and career-development pathways
 * [GitHub Portfolio](https://github.com/jdmc-services) — Vendor-neutral frameworks, synthetic demonstrations, security labs, and implementation playbooks
 
-These independent initiatives are designed to reinforce one another while maintaining distinct missions, governance, financial structures, audiences, and service models.
+These independent initiatives maintain separate missions and service models. Commercial consulting and nonprofit education require separate scope, contracting, attribution, and financial handling; linking them here does not imply a joint engagement or cross-endorsement.
 
 ## Current Development Priorities
 
@@ -159,10 +156,10 @@ The views and materials presented here are my own and do not represent any emplo
 
 ## Collaboration
 
-For consulting, educational partnerships, speaking engagements, workforce-development initiatives, responsible AI programs, and publishing collaborations, please use the contact channels available through:
+* **Commercial consulting, architecture, and business advisory:** use the contact channels at [JDMC Services LLC](https://jdmcservices.com).
+* **Nonprofit education, mentorship, and workforce initiatives:** use the contact channels at [EmpowerTech Pathway Inc.](https://empowertechpathway.org).
 
-* [JDMC Services LLC](https://jdmcservices.com)
-* [EmpowerTech Pathway Inc.](https://empowertechpathway.org)
+Speaking, publishing, and educational partnership inquiries should identify their intended scope so the appropriate entity and agreement can be established. Scope, contracting, and attribution are handled separately. Initial inquiries should contain no confidential employer, client, student, or production information.
 
 ---
 
